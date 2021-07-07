@@ -29,7 +29,7 @@ File contains various operations like
 
 ### Web App using Justpy
 
-As graphs in Jupyter notrebook are not that clear and interesting to watch,
+As graphs in Jupyter notebook are not that clear and interesting to watch,
 We can make webapps using justpy and highchart graphs.
 
 After running py file, server is at http://127.0.0.1:8000/
