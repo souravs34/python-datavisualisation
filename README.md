@@ -15,6 +15,7 @@ File contains various operations like
 4. Time-Based Filtering
 
 5. Plotting graphs of 
+
 (a) Aggregating and Plotting Average Ratings by Day 
 
 (b) Downsampling and Plotting Average Ratings by Week
