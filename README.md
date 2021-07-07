@@ -1,10 +1,9 @@
 # python-datavisualisation-webapp
 
-### Jupyter Notebook
-Data-Analysis-and-visualisation-part1
-Data-Analysis-and-visualisation-part2
+Data Visualisation graphs related to data in file "reviews.csv"
 
-These files contains graphs related to file reviews.csv in Jupyter Notebook
+### Jupyter Notebook
+
 File contains various operations like 
 
 1. Exploring datasets with python and pandas
@@ -29,7 +28,7 @@ File contains various operations like
 ### Web App using Justpy
 
 As graphs in Jupyter notrebook are not that clear and interesting to watch,
-We can make webapps using justpy and pytz.
+We can make webapps using justpy and highchart graphs.
 
 1_part.py :- Contains graph of average rating per day
 
@@ -45,3 +44,8 @@ We can make webapps using justpy and pytz.
 
 7_part.py :- Contains graph of Ratings by course.
 
+
+
+Justpy docs :- https://justpy.io/tutorial/getting_started/
+
+Highcharts docs :- https://www.highcharts.com/docs/chart-and-series-types/chart-types
